@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * Created by IntelliJ IDEA.
- * Project : customer
+ * Project : spring-boot-security-jwt-demo
  * User: hendisantika
  * Email: hendisantika@gmail.com
  * Telegram : @hendisantika34
