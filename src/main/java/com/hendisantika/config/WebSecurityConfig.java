@@ -18,7 +18,7 @@ import com.hendisantika.security.JwtAuthenticationEntryPoint;
 import com.hendisantika.security.JwtAuthenticationTokenFilter;
 /**
  * Created by IntelliJ IDEA.
- * Project : cspring-boot-security-jwt-demo
+ * Project : spring-boot-security-jwt-demo
  * User: hendisantika
  * Email: hendisantika@gmail.com
  * Telegram : @hendisantika34
