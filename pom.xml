@@ -32,7 +32,7 @@
         <jjwt.version>0.7.0</jjwt.version>
         <jacoco.version>0.8.12</jacoco.version>
 
-        <maven-compiler-plugin.version>3.6.1</maven-compiler-plugin.version>
+        <maven-compiler-plugin.version>3.13.0</maven-compiler-plugin.version>
         <findbugs-maven-plugin.version>3.0.5</findbugs-maven-plugin.version>
         <docker-maven-plugin.version>0.4.13</docker-maven-plugin.version>
     </properties>
